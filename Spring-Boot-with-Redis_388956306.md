@@ -6,11 +6,11 @@
 
 <div id="breadcrumb-section">
 
-1.  [Programming](index.html)
-2.  [Programming](Programming_98307.html)
-3.  [Spring](Spring_120848385.html)
-4.  [Spring Boot](Spring-Boot_223477765.html)
-5.  [Spring Boot Caching](Spring-Boot-Caching_393740291.html)
+1.  [Programming](README.md)
+2.  [Programming](Programming_98307.md)
+3.  [Spring](Spring_120848385.md)
+4.  [Spring Boot](Spring-Boot_223477765.md)
+5.  [Spring Boot Caching](Spring-Boot-Caching_393740291.md)
 
 </div>
 
@@ -589,7 +589,7 @@ public User updateUser(User user) {
 
 ## How to Implement Conditional **Caching using Annotations?**
 
-If we have some requirement when we need to cache data only on a particular condition, we can parameterize our annotation with two parameters: ‘condition’ and ‘unless’. They accept a <a href="https://docs.spring.io/spring-framework/docs/4.3.10.RELEASE/spring-framework-reference/html/expressions.html" class="external-link" rel="nofollow">SpEL expression</a> and ensures that the results are cached based on evaluating that expression. This kind of conditional caching can be useful for managing large amount of results. For example, let’s observe one example from each parameter.
+If we have some requirement when we need to cache data only on a particular condition, we can parameterize our annotation with two parameters: ‘condition’ and ‘unless’. They accept a <a href="https://docs.spring.io/spring-framework/docs/4.3.10.RELEASE/spring-framework-reference/html/expressions.md" class="external-link" rel="nofollow">SpEL expression</a> and ensures that the results are cached based on evaluating that expression. This kind of conditional caching can be useful for managing large amount of results. For example, let’s observe one example from each parameter.
 
 Below Example demonstrates the concept of ‘condition’ parameter.
 

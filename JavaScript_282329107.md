@@ -6,9 +6,9 @@
 
 <div id="breadcrumb-section">
 
-1.  [Programming](index.html)
-2.  [Programming](Programming_98307.html)
-3.  [Web](Web_352452663.html)
+1.  [Programming](README.md)
+2.  [Programming](Programming_98307.md)
+3.  [Web](Web_352452663.md)
 
 </div>
 
@@ -36,8 +36,8 @@ Created by <span class="author"> Dongwook Han</span>, last modified on 4월 19, 
 
 </div>
 
-- <a href="390758544.html" data-linked-resource-id="390758544" data-linked-resource-version="2" data-linked-resource-type="page">javascript 추세</a>
-- <a href="366379068.html" data-linked-resource-id="366379068" data-linked-resource-version="9" data-linked-resource-type="page">기본문법</a>
+- <a href="390758544.md" data-linked-resource-id="390758544" data-linked-resource-version="2" data-linked-resource-type="page">javascript 추세</a>
+- <a href="366379068.md" data-linked-resource-id="366379068" data-linked-resource-version="9" data-linked-resource-type="page">기본문법</a>
 
 </div>
 

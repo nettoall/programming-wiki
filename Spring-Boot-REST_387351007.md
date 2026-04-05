@@ -6,10 +6,10 @@
 
 <div id="breadcrumb-section">
 
-1.  [Programming](index.html)
-2.  [Programming](Programming_98307.html)
-3.  [Spring](Spring_120848385.html)
-4.  [Spring Boot](Spring-Boot_223477765.html)
+1.  [Programming](README.md)
+2.  [Programming](Programming_98307.md)
+3.  [Spring](Spring_120848385.md)
+4.  [Spring Boot](Spring-Boot_223477765.md)
 
 </div>
 
@@ -1453,7 +1453,7 @@ System.out.println("Response Body : " +list);
 
 </div>
 
-- RestTemplate API 정보 <a href="https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/client/RestTemplate.html" class="external-link" data-card-appearance="inline" rel="nofollow">https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/client/RestTemplate.html</a>
+- RestTemplate API 정보 <a href="https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/client/RestTemplate.md" class="external-link" data-card-appearance="inline" rel="nofollow">https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/client/RestTemplate.md</a>
 
 </div>
 

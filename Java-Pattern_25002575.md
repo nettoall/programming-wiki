@@ -6,9 +6,9 @@
 
 <div id="breadcrumb-section">
 
-1.  [Programming](index.html)
-2.  [Programming](Programming_98307.html)
-3.  [Java](Java_25001989.html)
+1.  [Programming](README.md)
+2.  [Programming](Programming_98307.md)
+3.  [Java](Java_25001989.md)
 
 </div>
 
@@ -32,10 +32,10 @@ Created by <span class="author"> Dongwook Han</span>, last modified on 6월 23, 
 
 3.  어떻게 구현하는지
 
-- <a href="Observable_25002592.html" data-linked-resource-id="25002592" data-linked-resource-version="2" data-linked-resource-type="page">Observable</a>
-- <a href="Strategy-Pattern_385777665.html" data-linked-resource-id="385777665" data-linked-resource-version="1" data-linked-resource-type="page">Strategy Pattern</a>
-- <a href="Decorator-pattern_386203651.html" data-linked-resource-id="386203651" data-linked-resource-version="2" data-linked-resource-type="page">Decorator pattern</a>
-- <a href="Singleton-Pattern_387285234.html" data-linked-resource-id="387285234" data-linked-resource-version="2" data-linked-resource-type="page">Singleton Pattern</a>
+- <a href="Observable_25002592.md" data-linked-resource-id="25002592" data-linked-resource-version="2" data-linked-resource-type="page">Observable</a>
+- <a href="Strategy-Pattern_385777665.md" data-linked-resource-id="385777665" data-linked-resource-version="1" data-linked-resource-type="page">Strategy Pattern</a>
+- <a href="Decorator-pattern_386203651.md" data-linked-resource-id="386203651" data-linked-resource-version="2" data-linked-resource-type="page">Decorator pattern</a>
+- <a href="Singleton-Pattern_387285234.md" data-linked-resource-id="387285234" data-linked-resource-version="2" data-linked-resource-type="page">Singleton Pattern</a>
 
 </div>
 

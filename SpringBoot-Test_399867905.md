@@ -6,10 +6,10 @@
 
 <div id="breadcrumb-section">
 
-1.  [Programming](index.html)
-2.  [Programming](Programming_98307.html)
-3.  [Spring](Spring_120848385.html)
-4.  [Spring Boot](Spring-Boot_223477765.html)
+1.  [Programming](README.md)
+2.  [Programming](Programming_98307.md)
+3.  [Spring](Spring_120848385.md)
+4.  [Spring Boot](Spring-Boot_223477765.md)
 
 </div>
 
@@ -79,7 +79,7 @@ Created by <span class="author"> Dongwook Han</span> on 6월 23, 2023
 
 ### 환경
 
-- org.springframework.mock.env 에는 환경과 PeoprtySource 추상화 Mock 구현이 포함됨(<a href="https://docs.spring.io/spring-framework/reference/core/beans/environment.html#beans-definition-profiles" class="external-link" rel="nofollow">Bean Definition Profiles</a> 와 <a href="https://docs.spring.io/spring-framework/reference/core/beans/environment.html#beans-property-source-abstraction" class="external-link" rel="nofollow">PropertySource Abstraction</a> 참조)
+- org.springframework.mock.env 에는 환경과 PeoprtySource 추상화 Mock 구현이 포함됨(<a href="https://docs.spring.io/spring-framework/reference/core/beans/environment.md#beans-definition-profiles" class="external-link" rel="nofollow">Bean Definition Profiles</a> 와 <a href="https://docs.spring.io/spring-framework/reference/core/beans/environment.md#beans-property-source-abstraction" class="external-link" rel="nofollow">PropertySource Abstraction</a> 참조)
 
 - MockEnvironment와 MockPropertySource는 환경별 속성에 의존하는 코드에 대한 컨테이너 외부 테스트를 개발하는데 유용 (컨테이너를 사용하지 않는 테스트? )
 
@@ -99,7 +99,7 @@ Created by <span class="author"> Dongwook Han</span> on 6월 23, 2023
 
 - Spring Framework 6.0 부터 Mock 객체는 Servlet 6.0 API를 기반으로 함
 
-- Spring MVC 테스트 프레임워크는 Spring MVC용 통합 테스트 프레임워크를 제공하기 위해 모의 Serlvet API 객체를 기반으로 함. <a href="https://docs.spring.io/spring-framework/reference/testing/spring-mvc-test-framework.html" class="external-link" rel="nofollow">MockMVC</a> 참조
+- Spring MVC 테스트 프레임워크는 Spring MVC용 통합 테스트 프레임워크를 제공하기 위해 모의 Serlvet API 객체를 기반으로 함. <a href="https://docs.spring.io/spring-framework/reference/testing/spring-mvc-test-framework.md" class="external-link" rel="nofollow">MockMVC</a> 참조
 
 ### Spring Web Reactive
 
@@ -143,7 +143,7 @@ Created by <span class="author"> Dongwook Han</span> on 6월 23, 2023
 
 - Spring MVC 용 WebapplicationContext 구성과 함께 Spring MVC 및 REST 클래스의 철저한 통합 테스트를 위해 Spring MVC 테스트 프레임워크를 사용
 
-<a href="https://docs/spring.io/spring-framework/reference/testing/integration.html" class="external-link" rel="nofollow">https://docs/spring.io/spring-framework/reference/testing/integration.html</a>
+<a href="https://docs/spring.io/spring-framework/reference/testing/integration.md" class="external-link" rel="nofollow">https://docs/spring.io/spring-framework/reference/testing/integration.md</a>
 
 # 통합 테스트(Integration Testing)
 
